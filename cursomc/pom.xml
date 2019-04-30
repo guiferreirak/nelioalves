@@ -44,7 +44,7 @@
 			<scope>runtime</scope>
 		</dependency>
 		
-		<!-- Disponibiliza toda configuração do banco  -->
+		<!-- Disponibiliza automaticamente toda configuração do banco  -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-devtools</artifactId>
